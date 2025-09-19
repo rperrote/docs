@@ -4,8 +4,8 @@
   "name": "CuotaQ Docs",
   "colors": {
     "primary": "#092e80",
-    "light": "#092e80",
-    "dark": "#092e80"
+    "light": "#1041e6",
+    "dark": "#3761ed"
   },
   "favicon": "/favicon.svg",
   "navigation": {
