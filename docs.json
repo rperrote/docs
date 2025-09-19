@@ -72,7 +72,7 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
+    "light": "https://cuotaq.io/logo-negro.png",
     "dark": "https://cuotaq.io/logo-blanco.png"
   },
   "navbar": {
